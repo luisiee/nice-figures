@@ -1,1 +1,4 @@
-Import `nicefigures.nicefigures` to set the style.
+```py
+import matplotlib.pyplot as plt
+plt.style.use('nicefigures.mplstyle')
+```
