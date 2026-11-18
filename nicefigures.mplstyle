@@ -9,7 +9,7 @@ xtick.direction : in
 ytick.direction : in
 
 lines.linewidth : 1
-lines.markersize : 2
+lines.markersize : 4
 
 font.family:  serif
 font.serif:   STIXGeneral
